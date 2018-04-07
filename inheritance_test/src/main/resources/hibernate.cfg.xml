@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+    <session-factory>
+        <!-- Диалект базы данных -->
+        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQL95Dialect</property>
+        <!-- Класс-драйвер соединения с БД -->
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <!-- URL-адрес соединения -->
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/company</property>
+        <!-- Логин (имя пользователя) -->
+        <property name="hibernate.connection.username">IT Class</property>
+        <!-- Пароль -->
+        <property name="hibernate.connection.password">123456</property>
+
+        <property name="hibernate.hbm2ddl.auto">create</property>
+
+        <!-- показывать SQL-запросы
+        <property name="show_sql">true</property> -->
+
+
+    </session-factory>
+
+</hibernate-configuration>

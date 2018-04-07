@@ -1,0 +1,27 @@
+group 'by.itclass.bank'
+version '0.0.1'
+
+apply plugin: 'java'
+apply plugin: 'application'
+
+mainClassName = 'by.itclass.Bank.FileApp'
+
+jar {
+    manifest {
+        attributes "Main-Class": mainClassName
+    }
+}
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-databind', version: '2.9.3'
+
+}

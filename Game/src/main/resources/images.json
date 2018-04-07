@@ -1,0 +1,38 @@
+[
+  {
+    "type": 0,
+    "cellImage": "Images/Tile/medievalTile_01.png",
+    "walkable": true,
+    "swimable": false
+  },
+  {
+    "type": 1,
+    "cellImage": "Images/Tile/medievalTile_13.png",
+    "walkable": true,
+    "swimable": false
+  },
+  {
+    "type": 2,
+    "cellImage": "Images/Tile/medievalTile_27.png",
+    "walkable": false,
+    "swimable": true
+  },
+  {
+    "type": 3,
+    "cellImage": "Images/Tile/medievalTile_44.png",
+    "walkable": false,
+    "swimable": false
+  },
+  {
+    "type": 4,
+    "cellImage": "Images/Tile/medievalTile_48.png",
+    "walkable": false,
+    "swimable": false
+  },
+  {
+    "type": 5,
+    "cellImage": "Images/Tile/medievalTile_57.png",
+    "walkable": true,
+    "swimable": false
+  }
+]

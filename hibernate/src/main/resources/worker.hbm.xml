@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <!--Отображение класса -->
+    <class name="Worker" table="workers">
+        <id name="id" type="int" column="id">
+            <generator class="identity"></generator>
+        </id>
+
+        <property name="name" column="name" type="string" length="32"></property>
+        <property name="surname" column="surname" type="string" length="32"></property>
+        <property name="birthdate" column="birthdate" type="date"></property>
+
+
+    </class>
+</hibernate-mapping>

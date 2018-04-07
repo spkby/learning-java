@@ -1,0 +1,8 @@
+*.iml
+*.jpg
+/.idea/
+/out/
+/lib/
+/.gradle/
+/gradle/
+/build/

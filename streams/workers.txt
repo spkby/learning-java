@@ -1,0 +1,16 @@
+Ivanov;1000
+Petrov;2000
+Savelyev;500
+Efimov;20000
+Ivanov;1000
+Petrov;2000
+Savelyev;500
+Efimov;20000
+Ivanov;1000
+Petrov;2000
+Savelyev;500
+Efimov;20000
+Ivanov;1000
+Petrov;2000
+Savelyev;500
+Efimov;20000

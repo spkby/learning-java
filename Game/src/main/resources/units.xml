@@ -1,0 +1,32 @@
+<units>
+    <!--
+        <unit id="0"
+              image="Images/hero.png"
+              speed="75"
+              swimFactor="0.6"
+              canSwim="true">
+
+        </unit>
+    -->
+    <unit>
+        <type>2</type>
+        <image>Images/Animals/pig.png</image>
+        <speed>50</speed>
+        <swimFactor>1.5</swimFactor>
+        <canSwim>true</canSwim>
+    </unit>
+    <unit>
+        <canSwim>true</canSwim>
+        <type>0</type>
+        <speed>75</speed>1
+        <image>Images/hero.png</image>
+        <swimFactor>0.6</swimFactor>
+    </unit>
+    <unit>
+        <image>Images/hero2.png</image>
+        <swimFactor>0.1</swimFactor>
+        <canSwim>true</canSwim>
+        <type>1</type>
+        <speed>150</speed>
+    </unit>
+</units>

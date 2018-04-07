@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Accounts>
+    <Account type="3">
+        <ID>1</ID>
+        <Amount>566.98</Amount>
+        <Currency>EUR</Currency>
+        <Percent>5</Percent>
+    </Account>
+    <Account type="4">
+        <ID>2</ID>
+        <Company>GOOGL</Company>
+        <Quantity>89</Quantity>
+    </Account>
+    <Account type="2">
+        <ID>3</ID>
+        <Amount>-8.91</Amount>
+        <Currency>BYN</Currency>
+        <Percent>0</Percent>
+    </Account>
+    <Account type="5">
+        <ID>4</ID>
+        <Metal>SILVER</Metal>
+        <Quantity>89</Quantity>
+    </Account>
+    <Account type="2">
+        <ID>5</ID>
+        <Amount>-0.41000000000000003</Amount>
+        <Currency>BYN</Currency>
+        <Percent>0</Percent>
+    </Account>
+    <Account type="3">
+        <ID>6</ID>
+        <Amount>566.98</Amount>
+        <Currency>USD</Currency>
+        <Percent>4</Percent>
+    </Account>
+    <Account type="4">
+        <ID>7</ID>
+        <Company>APPL</Company>
+        <Quantity>819</Quantity>
+    </Account>
+    <Account type="2">
+        <ID>8</ID>
+        <Amount>-81.91000000000001</Amount>
+        <Currency>BYN</Currency>
+        <Percent>0</Percent>
+    </Account>
+    <Account type="5">
+        <ID>9</ID>
+        <Metal>PALLADIUM</Metal>
+        <Quantity>1829</Quantity>
+    </Account>
+    <Account type="2">
+        <ID>10</ID>
+        <Amount>-411.21000000000004</Amount>
+        <Currency>BYN</Currency>
+        <Percent>0</Percent>
+    </Account>
+</Accounts>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bank>
+    <ServiceAccounts>
+        <ServiceAccount>
+            <CellAccount>2</CellAccount>
+            <CreditAccount>3</CreditAccount>
+        </ServiceAccount>
+        <ServiceAccount>
+            <CellAccount>4</CellAccount>
+            <CreditAccount>5</CreditAccount>
+        </ServiceAccount>
+        <ServiceAccount>
+            <CellAccount>7</CellAccount>
+            <CreditAccount>8</CreditAccount>
+        </ServiceAccount>
+        <ServiceAccount>
+            <CellAccount>9</CellAccount>
+            <CreditAccount>10</CreditAccount>
+        </ServiceAccount>
+    </ServiceAccounts>
+    <ClientAccounts>
+        <ClientAccount>
+            <Firstname>Ivan</Firstname>
+            <Lastname>Ivanov</Lastname>
+            <Passport>HB1</Passport>
+            <AccountID>1</AccountID>
+        </ClientAccount>
+        <ClientAccount>
+            <Firstname>Ivan</Firstname>
+            <Lastname>Ivanov</Lastname>
+            <Passport>HB1</Passport>
+            <AccountID>2</AccountID>
+        </ClientAccount>
+        <ClientAccount>
+            <Firstname>Ivan</Firstname>
+            <Lastname>Ivanov</Lastname>
+            <Passport>HB1</Passport>
+            <AccountID>3</AccountID>
+        </ClientAccount>
+        <ClientAccount>
+            <Firstname>Ivan</Firstname>
+            <Lastname>Ivanov</Lastname>
+            <Passport>HB1</Passport>
+            <AccountID>4</AccountID>
+        </ClientAccount>
+        <ClientAccount>
+            <Firstname>Ivan</Firstname>
+            <Lastname>Ivanov</Lastname>
+            <Passport>HB1</Passport>
+            <AccountID>5</AccountID>
+        </ClientAccount>
+        <ClientAccount>
+            <Firstname>Elena</Firstname>
+            <Lastname>Elenova</Lastname>
+            <Passport>HB4</Passport>
+            <AccountID>6</AccountID>
+        </ClientAccount>
+        <ClientAccount>
+            <Firstname>Elena</Firstname>
+            <Lastname>Elenova</Lastname>
+            <Passport>HB4</Passport>
+            <AccountID>7</AccountID>
+        </ClientAccount>
+        <ClientAccount>
+            <Firstname>Elena</Firstname>
+            <Lastname>Elenova</Lastname>
+            <Passport>HB4</Passport>
+            <AccountID>8</AccountID>
+        </ClientAccount>
+        <ClientAccount>
+            <Firstname>Elena</Firstname>
+            <Lastname>Elenova</Lastname>
+            <Passport>HB4</Passport>
+            <AccountID>9</AccountID>
+        </ClientAccount>
+        <ClientAccount>
+            <Firstname>Elena</Firstname>
+            <Lastname>Elenova</Lastname>
+            <Passport>HB4</Passport>
+            <AccountID>10</AccountID>
+        </ClientAccount>
+    </ClientAccounts>
+    <Accounts>
+        <Account type="3">
+            <ID>1</ID>
+            <Amount>566.98</Amount>
+            <Currency>EUR</Currency>
+            <Percent>3</Percent>
+        </Account>
+        <Account type="4">
+            <ID>2</ID>
+            <Company>GOOGL</Company>
+            <Quantity>89</Quantity>
+        </Account>
+        <Account type="2">
+            <ID>3</ID>
+            <Amount>-8.91</Amount>
+            <Currency>BYN</Currency>
+            <Percent>0</Percent>
+        </Account>
+        <Account type="5">
+            <ID>4</ID>
+            <Metal>SILVER</Metal>
+            <Quantity>765</Quantity>
+        </Account>
+        <Account type="2">
+            <ID>5</ID>
+            <Amount>-3.21</Amount>
+            <Currency>BYN</Currency>
+            <Percent>0</Percent>
+        </Account>
+        <Account type="2">
+            <ID>6</ID>
+            <Amount>875.98</Amount>
+            <Currency>USD</Currency>
+            <Percent>4</Percent>
+        </Account>
+        <Account type="4">
+            <ID>7</ID>
+            <Company>APPL</Company>
+            <Quantity>456</Quantity>
+        </Account>
+        <Account type="2">
+            <ID>8</ID>
+            <Amount>-45.61</Amount>
+            <Currency>BYN</Currency>
+            <Percent>0</Percent>
+        </Account>
+        <Account type="5">
+            <ID>9</ID>
+            <Metal>PALLADIUM</Metal>
+            <Quantity>345</Quantity>
+        </Account>
+        <Account type="2">
+            <ID>10</ID>
+            <Amount>-77.61000000000001</Amount>
+            <Currency>BYN</Currency>
+            <Percent>0</Percent>
+        </Account>
+    </Accounts>
+</Bank>

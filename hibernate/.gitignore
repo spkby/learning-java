@@ -1,0 +1,10 @@
+*.iml
+*.jpg
+/.idea/
+/out/
+/lib/
+/.gradle/
+/gradle/
+/build/
+/src/main/resources/hibernate.properties
+/src/main/resources/hibernate.cfg.xml

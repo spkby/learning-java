@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webservlettest.iml" filepath="$PROJECT_DIR$/.idea/modules/webservlettest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webservlettest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/webservlettest_main.iml" group="webservlettest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webservlettest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/webservlettest_test.iml" group="webservlettest" />
+    </modules>
+  </component>
+</project>

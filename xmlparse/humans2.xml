@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<humans>
+    <human id="10e324a6-f9f0-4cf9-a9ec-749114d83f28" type="employee">
+        <firstName>Pavel</firstName>
+        <lastName>Ivanov</lastName>
+        <age>23</age>
+        <experience>4</experience>
+    </human>
+    <human id="96daeedf-b6e2-475f-9e03-8a47faf19d65" type="student">
+        <firstName>Roman</firstName>
+        <lastName>Petrov</lastName>
+        <age>23</age>
+        <group>T4</group>
+    </human>
+    <human id="eb44bd18-dc1f-4250-ba28-019b7ee37110" type="employee">
+        <firstName>Ivan</firstName>
+        <lastName>Vasilyev</lastName>
+        <age>25</age>
+        <experience>5</experience>
+    </human>
+    <human id="089e5cb9-c7b1-4e0e-a3d4-e6077f156404" type="client">
+        <firstName>Sergey</firstName>
+        <lastName>Sidorov</lastName>
+        <age>18</age>
+        <order>mobile phone</order>
+    </human>
+    <human id="6b0e9cc4-7d94-4bfa-83db-65bffe59c226" type="student">
+        <firstName>Elena</firstName>
+        <lastName>Petrova</lastName>
+        <age>19</age>
+        <group>T18</group>
+    </human>
+</humans>
